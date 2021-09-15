@@ -1,5 +1,5 @@
 # Data analysis on IMDb movies data
-* Ran data analysis and tested my hypothesis on what can affect a movie earning gross
+* Ran data analysis and tested my hypothesis on what can affect a movie gross earnings
 * Produced some figures that can make understanding the dataset easy
 
 ## Programming Language & Packages
